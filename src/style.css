@@ -1,0 +1,20 @@
+html{
+  background: rgb(180, 170, 190);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+a{
+  color: rgb(78, 51, 75);
+  font-weight: bold;
+  text-decoration: none;
+  margin: 5px;
+}
+
+a:hover{
+  color: rgb(131, 100, 131);
+}
+
+.homePage-headline{
+  color: rgb(133, 56, 143);
+}
